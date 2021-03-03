@@ -7,7 +7,7 @@ import org.apache.storm.utils.Utils;
 /**
  * storm拓扑
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C30Topology {
