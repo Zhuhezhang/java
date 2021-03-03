@@ -10,7 +10,7 @@ import org.apache.storm.tuple.Values;
 /**
  * 订阅C40/C50发射的tuple流，实现行数统计
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C52RowCountBolt extends BaseRichBolt {
