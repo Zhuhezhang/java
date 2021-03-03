@@ -3,7 +3,7 @@ import redis.clients.jedis.Jedis;
 /**
  * 将传过来的信息保存到Redis
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C21SaveToRedis {
