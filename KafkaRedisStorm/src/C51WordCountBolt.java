@@ -12,7 +12,7 @@ import org.apache.storm.tuple.Values;
 /**
  * 订阅C40/C41发射的tuple流，实现字数统计
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C51WordCountBolt extends BaseRichBolt {
