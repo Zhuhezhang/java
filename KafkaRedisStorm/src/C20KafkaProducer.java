@@ -6,7 +6,7 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 /**
  * 将发送过来的信息保存到Kafka队列
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C20KafkaProducer {
