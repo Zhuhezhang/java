@@ -4,7 +4,7 @@ import java.net.*;
 /**
  * 爬取并返回的网站信息
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C10Crawler {
