@@ -12,7 +12,7 @@ import redis.clients.jedis.Jedis;
 /**
  * 屏幕显示统计结果保存至redis
  * 
- * @author 朱和章
+ * @author zhuhezhang
  */
 
 public class C70ReportBolt extends BaseRichBolt {
