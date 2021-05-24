@@ -11,7 +11,7 @@ import org.apache.storm.tuple.Values;
 /**
  * 订阅C50 bolt的输出流，实现单词计数，并发送当前计数给下一个C70 bolt
  * 
- * @author zhuhezhang
+ * @author zhz
  */
 public class C60WordFrequencyBolt extends BaseRichBolt {
 	private static final long serialVersionUID = 1L;
