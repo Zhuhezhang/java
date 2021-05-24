@@ -12,7 +12,7 @@ import org.apache.kafka.common.utils.Exit;
  * 为数据源所统计的数据，也就是两者的C60、C51、C52都发往C70输出统计结果，同时保存到redis,
  * 一个spout对应的是一个拓扑
  * 
- * @author zhuhezhang
+ * @author zhz
  */
 
 public class C00Main {
