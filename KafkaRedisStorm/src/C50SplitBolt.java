@@ -12,7 +12,7 @@ import org.apache.storm.tuple.Values;
 /**
  * 订阅spout发射的tuple流，实现分割单词，并发往C60
  * 
- * @author zhuhezhang
+ * @author zhz
  */
 
 public class C50SplitBolt extends BaseRichBolt {
