@@ -12,7 +12,7 @@ import org.apache.storm.tuple.Values;
 /**
  * 从Redis中读出数据并发往C50、C51、C52Bolt
  * 
- * @author zhuhezhang
+ * @author zhz
  */
 
 public class C41RedisSpout extends BaseRichSpout {
